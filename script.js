@@ -9,6 +9,7 @@ var ody = 0;
 var gravity = 1;
 var isPaused = false;
 
+// TODO: Stuff
 var player = { x: 100, y: canvas.height - 10, width: 10, height: 10 }
 var nextObstacle = { x: canvas.width + 10, y: canvas.height - 10, width: 10, height: 10 }
 
